@@ -1,1 +1,5 @@
-# geodac-2022
+# Welcome to GEOD@C, 2022
+
+Thank you for joining us.
+
+
