@@ -6,6 +6,6 @@ GEOD@C (Generating Earth Observation Datasets At Carleton) establishes a collabo
 
 # Where Do I Start?
 
-Good question. We will use Python as a common coding language, and will be building up an environment that contains all of the underlying libraries using Anaconda (www.anaconda.com). Once you have Anaconda installed on your system, your next stop is the environmentGuide notebook.
+Good question. We will use Python as a common coding language, and will be building up an environment that contains all of the underlying libraries using Anaconda (www.anaconda.com). Once you have Anaconda installed on your system, your next stop is the [environmentGuide notebook](https://github.com/tww-carleton/geodac-2022/blob/main/notebooks/environmentGuide.ipynb).
 
 
