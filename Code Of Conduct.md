@@ -3,7 +3,7 @@
     <img alt="CarletonUniversity" src="https://d2vppzocvtms05.cloudfront.net/media/0E1CDD20-4B09-4D72-9A86896E97D10615/B151DC61-BA12-49C3-99201E79E08F58EE/webimage-BD665DBF-DDA4-46D5-AA5D8CB9DA8E6C51.png" width="350" height="250">
  </a>
   </p>
-<h1 align="center"> GEOD@C Hackathon 2022 - Code of Conduct </h1>
+<h1 align="center"> GEOD@C 2022 - Code of Conduct </h1>
 
 
 This hackathon is a community event intended for learning, collaboration, and engagement in the data science community. This event is open to all and we value the participation of each individual and want everyone involved to have an enjoyable and fulfilling experience. Accordingly, all staff and participants are expected to show respect and courtesy to others throughout the event. To make clear what is expected, all staff, participants, volunteers, mentors and judges in the hackathon are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
