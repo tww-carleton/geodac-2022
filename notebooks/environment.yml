@@ -74,6 +74,7 @@ dependencies:
   - wcwidth
   - wheel
   - xz
+  - xarray
   - zlib
   - zstd
 prefix: /opt/anaconda3/envs/GEODACenv
