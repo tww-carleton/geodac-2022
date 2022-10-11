@@ -10,7 +10,7 @@ This coding event is a community event intended for learning, collaboration, and
 
 **Be Respectful** Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and racist, sexist, or exclusionary jokes are not appropriate for this event*. *Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 	
-**Be Thoughtful** In the spirit of education and inclusiveness, there may be minors participating in the hackathon. Keep this in mind when speaking.
+**Be Thoughtful** In the spirit of education and inclusiveness, there may be minors participating in the event. Keep this in mind when speaking.
 
 **Be Open** We welcome attendees from all backgrounds. This event is about increasing the overall amount of learning, partnership, and engagement in the data science community.
 
